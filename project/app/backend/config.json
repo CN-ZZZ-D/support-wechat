@@ -1,0 +1,12 @@
+{
+    "channel_type": "gewechat",
+    "gewechat_token": "",
+    "gewechat_app_id": "",
+    "gewechat_base_url": "http://10.1.10.220:12531/v2/api",
+    "gewechat_callback_url": "http://10.1.10.220:9919/v2/api/callback/collect",
+    "gewechat_download_url": "http://10.1.10.220:12532/download",
+    "dify_api_base": "http://127.0.0.1/v1",
+    "dify_api_key": "app-hl9ZIMGfoLE0YOBpD7MkTCLh",
+    "dify_app_type": "chatbot",
+    "model": "dify"
+}
